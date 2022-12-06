@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ronaldothefreestyler</title>
+        <a href="https://www.instagram.com/ronaldothefreestyler/">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://use.fotawesome.com/releases/v5.8.2/css/all.css">
+    </head>
+    <body>
+
+         <marquee direction="right">
+                bonjour,bienvenue sur le site de Ronaldothefreestyler!
+            </marquee>
+
+
+          <header>
+              <nav>
+                  <div class="logo">
+                       <i class="fa-solid fa-rocket"></i>
+                  <div class="toggle">
+                       <i class="fa-solid fa-bars"></i>
+                       <i class="fa-solid fa-square-xmark"></i>
+                  </div>
+                  <ul class="menu">
+
+                  <a href="https://www.youtube.com/channel/UCZI5v_XGR-hSKxB6LeDra1w"><li>Youtube</li></a>
+                  <a href="https://www.instagram.com/ronaldothefreestyler/"><li>Instagram</li></a>
+                  <a href="https://mobile.facebook.com/profile.php?id=100083508215042&_rdc=1&_rdr"><li>Facebook</li></a>
+                  <a href="https://www.tiktok.com/@ronaldothefreestyler?lang=fr"><li>Tiktok</li></a>
+
+        
+              </nav>
+          </header>
+
+
+        <div id="carte">
+        
+            <a href="https://www.instagram.com/ronaldothefreestyler/"><h1> Clique ici pour devenir un fan !</h1></a>
+
+        </div>
+
+    </body>
+
+</html>
+
+        <h1>Ronaldothefreestyler</h1>
+
+        <img src="data:image/jpeg;base64,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">
+
+        
+
+
+        <p>Ronaldothefreestyler, de son vrai nom Edmond Peterson, est un footballer freestyler professionel haitien âgé de 23 ans.
+        Il a beaucoup travailler et entrainer pour devenir extraordinaire dans ce sport fascinant qui est le freestyle football. C'est en regardant son idole Ronaldinho sur youtube qu'il a trouvé des suggestions de videos de freestyle football avec des couvertures très étonnantes à croire. Surpris des mouvements qu'il a vu, il ne tardait pas d'essayer un mouvement de base qui lui parait difficile a réaliser qui était le ATW (arround the world), qui signifie tour du monde.<p>
+.</p>
+
+
+        <div class=button">
+        <p class=text">Allez-y</p>
+        <i class="fa-sharp fa-solid fa-arrow-right"></i><a href="https://www.instagram.com/ronaldothefreestyler/"><h1> Clique ici pour devenir un fan !</h1></a>
+      </div>
+
+        <h1>Clip : <video src="C:\Users\Smart\Videos\download\instagram__1654272953345.mp4" controls width="600" loop autoplay muted></video></h1>
+        
+      <a href="https://www.instagram.com/ronaldothefreestyler/"><h2> Allez me soutenir !</h2></a>
+  
+
+<h2>Qu'est-ce que le freestyle football</h2>
+
+        <p> Le freestyle football est une discipline qui combine le jonglage , la dance breack, l’acrobatie. C’est un sport libre.<p>
+
+ En Haiti, le freestyle football n’existe presque pas, bien sur il ya des jeunes qui font  certains mouvement typique du freestyle football mais il n’ya pas une vraie formation. Le freestyle football c’est tout une apprentissage , il ya des mouvements de bases et enchaînés. Le tour du monde (atw) est un mouvement de base présent dans Presque tous les figures du freestyle football. Pour être habile, il faut maitriser les trois parties: le upper (partie supperieure) ,le lower (partie inferrieure) et le sitdown.</p>
+
+<p>Si Ronaldo a appris presque tout du freestyle football sur internet, cela signifie qu'il est possible à tous d'apprendre aussi.</p>
+<p><br> Aujourd'hui Ronaldo compte plus de 10 milles followers sur instagram et plus de 20 milles sur tiktok</br></p>
+
+<h3><i class="fa-sharp fa-solid fa-arrow-right"></i> <a href="https://www.instagram.com/ronaldothefreestyler/"</a></h3>
+
+
+<br>Vivre l’expérience est la meilleure façon d’apprendre! </br>
+
+
+
+
+
+    <body>
+
+
+
+
+</html>
